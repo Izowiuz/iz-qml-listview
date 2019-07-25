@@ -121,7 +121,7 @@ IzListViewImpl {
 
 						enabled: isFiltered
 						fontIcon: "\uf235"
-						tooltip: qsTr("Usuń filtr")
+						tooltip: qsTr("Remove filter")
 
 						onReleased: {
 							if (proxyModel.applyFilter(role, "")) {
@@ -244,7 +244,7 @@ IzListViewImpl {
 
 				IzText {
 					anchors.centerIn: parent
-					text: qsTr("Brak pozycji do wyświetlenia")
+					text: qsTr("No results")
 				}
 			}
 
