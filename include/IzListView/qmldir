@@ -1,0 +1,4 @@
+﻿module IzListView
+plugin IzListViewPlugin
+typeinfo IzListView.qmltypes
+classname QmlPlugin

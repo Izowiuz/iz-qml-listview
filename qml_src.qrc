@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/svg/ic_bug_report_black_48px.svg</file>
+        <file>res/svg/ic_delete_black_48px.svg</file>
+        <file>res/svg/ic_sort_ascending_black_48px.svg</file>
+        <file>res/svg/ic_sort_descending_black_48px.svg</file>
+        <file>res/svg/ic_sort_disabled_black_48px.svg</file>
+        <file>res/svg/ic_stop_black_48px.svg</file>
+        <file>include/IzListView/QML/IzListView.qml</file>
+        <file>include/IzListView/QML/TextFieldFilterDelegate.qml</file>
+        <file>include/IzListView/QML/CompleterFilterDelegate.qml</file>
+        <file>include/IzListView/QML/Completer.qml</file>
+        <file>include/IzListView/QML/ComboBoxFilterDelegate.qml</file>
+        <file>include/IzListView/qmldir</file>
+    </qresource>
+</RCC>
